@@ -10,30 +10,27 @@ This project is a Spotify-like music streaming application built using Flutter. 
 - **State Management**: The app uses the Bloc pattern for state management, ensuring a predictable and maintainable state.
 - **Firebase Integration**: The app fetches data from Firebase Firestore and uses Firebase Storage for storing media files.
 - **Clean Architecture**: The project follows a clean architecture, making it easy to scale and maintain.
+- **Song Playback**: Users can play, pause, and skip songs.
+- **Favorites**: Users can add songs to their favorites.
 
 ## Screenshots
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <img src="assets/spotisc/01.png" alt="Screenshot 1" width="200" height="500">
   <img src="assets/spotisc/02.png" alt="Screenshot 2" width="200" height="500">
-  <img src="assets/spotisc/03.png" alt="Screenshot 2" width="200" height="500">
-  <img src="assets/spotisc/04.png" alt="Screenshot 2" width="200" height="500">
-  <img src="assets/spotisc/05.png" alt="Screenshot 2" width="200" height="500">
-  <img src="assets/spotisc/06.png" alt="Screenshot 2" width="200" height="500">
-  <img src="assets/spotisc/07.png" alt="Screenshot 2" width="200" height="500">
-  <img src="assets/spotisc/08.png" alt="Screenshot 2" width="200" height="500">
+  <img src="assets/spotisc/03.png" alt="Screenshot 3" width="200" height="500">
+  <img src="assets/spotisc/04.png" alt="Screenshot 4" width="200" height="500">
+  <img src="assets/spotisc/05.png" alt="Screenshot 5" width="200" height="500">
+  <img src="assets/spotisc/06.png" alt="Screenshot 6" width="200" height="500">
+  <img src="assets/spotisc/07.png" alt="Screenshot 7" width="200" height="500">
+  <img src="assets/spotisc/08.png" alt="Screenshot 8" width="200" height="500">
 </div>
 
 ## Video Demonstration
 
 Watch the video demonstration of the app to see it in action:
 
-<div style="display: flex; justify-content: center;">
-  <video width="500" height="300" controls>
-    <source src="assets/spotisc/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1049094328?h=7d1b7beddd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instavideo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Workflow
 
@@ -45,27 +42,19 @@ Watch the video demonstration of the app to see it in action:
    - Displays a list of recommended songs and playlists.
    - Users can browse through different categories and genres.
 
-3. **Search Functionality**:
-   - Users can search for songs, artists, and playlists.
-   - The search results are fetched from Firebase Firestore.
-
-4. **Song Player**:
+3. **Song Player**:
    - Users can play, pause, and skip songs.
    - The player displays song details and album art.
 
-5. **Profile Management**:
-   - Users can view and edit their profile information.
-   - Profile data is stored and retrieved from Firebase Firestore.
-
-6. **State Management**:
+4. **State Management**:
    - The app uses the Bloc pattern to manage the state of the application.
    - Ensures a predictable and maintainable state throughout the app.
 
-7. **Data Fetching**:
+5. **Data Fetching**:
    - The app fetches data from Firebase Firestore for songs, playlists, and user information.
    - Firebase Storage is used for storing and retrieving media files.
 
-8. **Clean Architecture**:
+6. **Clean Architecture**:
    - The project follows a clean architecture, separating the UI, business logic, and data layers.
    - Makes the codebase easy to maintain and scale.
 
