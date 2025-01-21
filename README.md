@@ -30,7 +30,19 @@ This project is a Spotify-like music streaming application built using Flutter. 
 
 Watch the video demonstration of the app to see it in action:
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1049101254?h=5cb85d5539&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="demo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[SpotifyApp Video Demonstration](https://vimeo.com/1049101254/5cb85d5539)
+
+## Screenshots
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
+  <img src="assets/spotisc/01.jpg" alt="Screenshot 1" width="200" height="500">
+  <img src="assets/spotisc/02.jpg" alt="Screenshot 2" width="200" height="500">
+  <img src="assets/spotisc/03.jpg" alt="Screenshot 3" width="200" height="500">
+  <img src="assets/spotisc/04.jpg" alt="Screenshot 4" width="200" height="500">
+  <img src="assets/spotisc/05.jpg" alt="Screenshot 5" width="200" height="500">
+  <img src="assets/spotisc/06.jpg" alt="Screenshot 6" width="200" height="500">
+</div>
+
 ## Workflow
 
 1. **User Authentication**: 
