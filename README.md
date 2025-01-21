@@ -16,14 +16,14 @@ This project is a Spotify-like music streaming application built using Flutter. 
 ## Screenshots
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img src="assets/spotisc/01.png" alt="Screenshot 1" width="200" height="500">
-  <img src="assets/spotisc/02.png" alt="Screenshot 2" width="200" height="500">
-  <img src="assets/spotisc/03.png" alt="Screenshot 3" width="200" height="500">
-  <img src="assets/spotisc/04.png" alt="Screenshot 4" width="200" height="500">
-  <img src="assets/spotisc/05.png" alt="Screenshot 5" width="200" height="500">
-  <img src="assets/spotisc/06.png" alt="Screenshot 6" width="200" height="500">
-  <img src="assets/spotisc/07.png" alt="Screenshot 7" width="200" height="500">
-  <img src="assets/spotisc/08.png" alt="Screenshot 8" width="200" height="500">
+  <img src="assets/spotisc/01.jpg" alt="Screenshot 1" width="200" height="500">
+  <img src="assets/spotisc/02.jpg" alt="Screenshot 2" width="200" height="500">
+  <img src="assets/spotisc/03.jpg" alt="Screenshot 3" width="200" height="500">
+  <img src="assets/spotisc/04.jpg" alt="Screenshot 4" width="200" height="500">
+  <img src="assets/spotisc/05.jpg" alt="Screenshot 5" width="200" height="500">
+  <img src="assets/spotisc/06.jpg" alt="Screenshot 6" width="200" height="500">
+  <img src="assets/spotisc/07.jpg" alt="Screenshot 7" width="200" height="500">
+  <img src="assets/spotisc/08.jpg" alt="Screenshot 8" width="200" height="500">
 </div>
 
 ## Video Demonstration
