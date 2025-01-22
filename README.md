@@ -13,19 +13,6 @@ This project is a Spotify-like music streaming application built using Flutter. 
 - **Song Playback**: Users can play, pause, and skip songs.
 - **Favorites**: Users can add songs to their favorites.
 
-## Screenshots
-
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img src="assets/spotisc/01.jpg" alt="Screenshot 1" width="200" height="500">
-  <img src="assets/spotisc/02.jpg" alt="Screenshot 2" width="200" height="500">
-  <img src="assets/spotisc/03.jpg" alt="Screenshot 3" width="200" height="500">
-  <img src="assets/spotisc/04.jpg" alt="Screenshot 4" width="200" height="500">
-  <img src="assets/spotisc/05.jpg" alt="Screenshot 5" width="200" height="500">
-  <img src="assets/spotisc/06.jpg" alt="Screenshot 6" width="200" height="500">
-  <img src="assets/spotisc/07.jpg" alt="Screenshot 7" width="200" height="500">
-  <img src="assets/spotisc/08.jpg" alt="Screenshot 8" width="200" height="500">
-</div>
-
 ## Video Demonstration
 
 Watch the video demonstration of the app to see it in action:
